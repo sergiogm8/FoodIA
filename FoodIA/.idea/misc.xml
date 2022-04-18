@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/BackupFoodIA/FoodIA/app/src/main/res/drawable-anydpi/ic_config.xml" value="0.231" />
+        <entry key="..\:/BackupFoodIA/FoodIA/app/src/main/res/drawable-anydpi/ic_more.xml" value="0.241" />
+        <entry key="..\:/BackupFoodIA/FoodIA/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.132" />
+        <entry key="..\:/BackupFoodIA/FoodIA/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1" />
+        <entry key="..\:/BackupFoodIA/FoodIA/app/src/main/res/drawable/ic_menu_camera.xml" value="0.132" />
+        <entry key="..\:/BackupFoodIA/FoodIA/app/src/main/res/drawable/ic_menu_gallery.xml" value="0.132" />
+        <entry key="..\:/BackupFoodIA/FoodIA/app/src/main/res/drawable/side_nav_bar.xml" value="0.231" />
+        <entry key="..\:/BackupFoodIA/FoodIA/app/src/main/res/layout/activity_historial.xml" value="0.12704918032786885" />
+        <entry key="..\:/BackupFoodIA/FoodIA/app/src/main/res/layout/activity_loading.xml" value="0.2" />
+        <entry key="..\:/BackupFoodIA/FoodIA/app/src/main/res/layout/activity_main.xml" value="0.264" />
+        <entry key="..\:/BackupFoodIA/FoodIA/app/src/main/res/layout/activity_menu.xml" value="0.2" />
+        <entry key="..\:/BackupFoodIA/FoodIA/app/src/main/res/layout/activity_prediccion.xml" value="0.264" />
+        <entry key="..\:/BackupFoodIA/FoodIA/app/src/main/res/layout/app_bar_menu.xml" value="0.13465952563121653" />
+        <entry key="..\:/BackupFoodIA/FoodIA/app/src/main/res/layout/fragment_home.xml" value="0.1" />
+        <entry key="..\:/BackupFoodIA/FoodIA/app/src/main/res/layout/historial_layout.xml" value="0.33" />
+        <entry key="..\:/BackupFoodIA/FoodIA/app/src/main/res/menu/menu.xml" value="0.176171875" />
+        <entry key="..\:/BackupFoodIA/FoodIA/app/src/main/res/menu/menu_historial.xml" value="0.275" />
+        <entry key="..\:/BackupFoodIA/FoodIA/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.3675" />
+        <entry key="..\:/BackupFoodIA/FoodIA/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.3675" />
+        <entry key="..\:/BackupFoodIA/FoodIA/app/src/main/res/mipmap-anydpi-v26/ic_photo.xml" value="0.3675" />
+        <entry key="..\:/Users/Sergio/AndroidStudioProjects/FoodIA/app/src/main/res/drawable-anydpi/ic_photo.xml" value="0.343" />
+        <entry key="..\:/Users/Sergio/AndroidStudioProjects/FoodIA/app/src/main/res/drawable/side_nav_bar.xml" value="0.343" />
+        <entry key="..\:/Users/Sergio/AndroidStudioProjects/FoodIA/app/src/main/res/layout/activity_main.xml" value="0.2" />
+        <entry key="..\:/Users/Sergio/AndroidStudioProjects/FoodIA/app/src/main/res/layout/activity_menu.xml" value="0.275" />
+        <entry key="..\:/Users/Sergio/AndroidStudioProjects/FoodIA/app/src/main/res/layout/activity_prediccion.xml" value="0.4" />
+        <entry key="..\:/Users/Sergio/AndroidStudioProjects/FoodIA/app/src/main/res/layout/app_bar_menu.xml" value="0.275" />
+        <entry key="..\:/Users/Sergio/AndroidStudioProjects/FoodIA/app/src/main/res/layout/content_menu.xml" value="0.275" />
+        <entry key="..\:/Users/Sergio/AndroidStudioProjects/FoodIA/app/src/main/res/layout/prediccion.xml" value="0.264" />
+        <entry key="..\:/Users/Sergio/AndroidStudioProjects/FoodIA/app/src/main/res/menu/activity_main_drawer.xml" value="0.275" />
+        <entry key="..\:/Users/Sergio/AndroidStudioProjects/FoodIA/app/src/main/res/menu/menu.xml" value="0.275" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

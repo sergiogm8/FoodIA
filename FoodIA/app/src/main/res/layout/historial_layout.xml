@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="@dimen/activity_horizontal_margin">
+
+    <ImageButton
+        android:id="@+id/hist_imagen"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@color/transparent"/>
+
+    <TextView
+        android:id="@+id/hist_nombre"
+        android:layout_toRightOf="@+id/hist_imagen"
+        android:layout_marginLeft="@dimen/activity_horizontal_margin"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:fontFamily="@font/balsamiq_sans"
+        style="@style/TextAppearance.AppCompat.Title"
+        android:text="NOMBRE"
+        android:textColor="@color/black"
+        android:textSize="20dp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/hist_calorias"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/hist_nombre"
+
+        android:layout_marginLeft="@dimen/activity_horizontal_margin"
+        android:layout_toRightOf="@+id/hist_imagen"
+        android:fontFamily="@font/balsamiq_sans"
+        android:text="Calorias: "
+        android:textColor="@color/black" />
+
+    <TextView
+        android:id="@+id/hist_grasas"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/hist_calorias"
+        android:layout_marginLeft="@dimen/activity_horizontal_margin"
+        android:layout_toRightOf="@+id/hist_imagen"
+        android:layout_marginVertical="10dp"
+        android:fontFamily="@font/balsamiq_sans"
+        android:text="Grasas: "
+        android:textColor="@color/black" />
+
+    <TextView
+        android:id="@+id/hist_proteinas"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/hist_nombre"
+
+        android:layout_marginLeft="@dimen/activity_horizontal_margin"
+        android:layout_toRightOf="@+id/hist_calorias"
+        android:fontFamily="@font/balsamiq_sans"
+        android:text="Proteínas: "
+        android:textColor="@color/black" />
+
+    <TextView
+        android:id="@+id/hist_carbohidratos"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/hist_proteinas"
+        android:layout_marginVertical="10dp"
+        android:layout_marginLeft="@dimen/activity_horizontal_margin"
+        android:layout_toRightOf="@+id/hist_grasas"
+        android:fontFamily="@font/balsamiq_sans"
+        android:text="Carbohidratos: "
+        android:textColor="@color/black" />
+
+
+</RelativeLayout>
